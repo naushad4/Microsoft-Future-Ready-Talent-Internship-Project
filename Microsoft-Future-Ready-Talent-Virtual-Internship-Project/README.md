@@ -2,11 +2,7 @@
 
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-# [dhanvantri Healthcare Website with Healthbot](https://white-moss-0ef554e00.3.azurestaticapps.net)
-
-Project Link :https://white-moss-0ef554e00.3.azurestaticapps.net
-
-Demo Video :https://vimeo.com/824150188/c6b69c74dd?share=copy
+# [dhanvantri Healthcare Website with Healthbot
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
@@ -34,19 +30,9 @@ This website makes your medical needs easy to keep all the records related to pa
 dhanvantri website is a platform that provides various healthcare services through the internet. These services can include consultations with medical professionals, online prescriptions, ordering medical supplies, and access to medical information and resources. Online healthcare websites can be useful for individuals who are unable to physically visit a healthcare facility due to geographical, physical or other constraints, as well as those who prefer the convenience of accessing healthcare services from the comfort of their homes. Additionally, online healthcare websites can help reduce the workload of healthcare providers and minimize waiting times for patients. It's important to note that while online healthcare websites can provide convenience, they should never replace the need for in-person medical care in emergency situations.
 
 
-### Screenshots :
-![Screenshot (35)](https://user-images.githubusercontent.com/93502957/236379189-cfb0480f-8a86-412c-9a2d-f6c2380ed503.png)
 
-![Screenshot (36)](https://user-images.githubusercontent.com/93502957/236379210-55e184d5-287b-46d5-971c-4d84d26c5ed3.png)
-
-![Screenshot (37)](https://user-images.githubusercontent.com/93502957/236379219-255cc6e9-e57a-414b-a683-dd423034bb65.png)
-
-![Screenshot (38)](https://user-images.githubusercontent.com/93502957/236379238-8fda38a9-e57f-4694-bad9-6b023c3d2006.png)
 
 ### Healthbot Screenshots:
 
-![Screenshot (39)](https://user-images.githubusercontent.com/93502957/236379293-afbfcdaa-32f8-45e8-9c62-ae30db806dfe.png)
-
-![Screenshot (40)](https://user-images.githubusercontent.com/93502957/236379307-1964aa6b-35dd-4deb-9495-85d2543bb71f.png)
 
 
