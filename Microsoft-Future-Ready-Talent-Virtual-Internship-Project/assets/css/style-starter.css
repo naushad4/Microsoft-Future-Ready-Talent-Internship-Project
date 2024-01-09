@@ -10373,7 +10373,7 @@ button.owl-next {
   content: "";
   background: rgba(7, 10, 12, 0.45);
   background: rgba(23, 68, 158, 0.6);
-  background: linear-gradient(45deg, #17449e, #00000026);
+background: linear-gradient(45deg, #c1e4e5, #00000026);
   position: absolute;
   top: 0;
   min-height: 100%;
