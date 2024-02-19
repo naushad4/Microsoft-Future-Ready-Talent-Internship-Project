@@ -5,56 +5,111 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Dhanvantri - providing affordable healthcare services </title>
+    <title>Dhanvantri Hospital </title>
 
     <link href="https://fonts.googleapis.com/css?family=Muli:400,600,700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/css/style-starter.css">
     
+    <style>
+      /* Style for the floating chat bot button */
+      .chat-bot-button {
+          position: fixed;
+          bottom: 20px;
+          right: 20px;
+          background-color: #4CAF50;
+          color: white;
+          border: none;
+          border-radius: 15px;
+          padding: 10px 20px;
+          font-size: 16px;
+          cursor: pointer;
+          box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+          z-index: 999;
+      }
+  
+      /* Hover effect */
+      .chat-bot-button:hover {
+          background-color: #45a049;
+      }
+  
+      /* Style for the chat bot iframe */
+      #chat-bot-iframe {
+          position: fixed;
+          bottom: 20px; /* Adjusted to align with the button */
+          right: 20px;
+          width: 400px;
+          height: 500px; /* Reduced height to keep it within bounds */
+          border: none;
+          border-radius: 10px;
+          box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+          z-index: 999;
+          display: none;
+      }
+  </style>
+    
   </head>
   <body>
-<section class="w3l-bootstrap-header">
-  <nav class="navbar navbar-expand-md navbar-light py-3">
-    <div class="container">
-      <a class="navbar-brand" href="index.html"><img src="assets/images/award.png" class="img-fluid" width="52px">
-        Dhanvantri Hospital</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        Menu
-      </button>
+    <!-- Floating Chat Bot Button -->
+<button class="chat-bot-button" onclick="toggleChatBot()">Chat with us!</button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="services.html">Services</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
-		   <li class="nav-item">
-            <a class="nav-link" href="https://healthcare-bot-4zh3cgtuvfxc6.azurewebsites.net/">HealthBot</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="login.html">Login/Signup</a>
-          </li>
-          
-        </ul>
-      </div>
-      <a href="#domain" class="domain ml-3" data-toggle="modal" data-target="#DomainModal">
-        <div class="hamburger1">
-          <div></div>
-          <div></div>
-          <div></div>
+<!-- Chat Bot Iframe -->
+<iframe id="chat-bot-iframe" src="https://healthcare-bot-4zh3cgtuvfxc6.azurewebsites.net/" allow="microphone; camera;"></iframe>
+
+<script>
+    var chatBotIframe = document.getElementById('chat-bot-iframe');
+
+    function toggleChatBot() {
+        if (chatBotIframe.style.display === 'none') {
+            chatBotIframe.style.display = 'block';
+        } else {
+            chatBotIframe.style.display = 'none';
+        }
+    }
+</script>
+
+
+<section class="w3l-bootstrap-header">
+ <nav class="navbar navbar-expand-md navbar-light py-3">
+    <div class="container">
+        <!-- Logo and Brand -->
+        <a class="navbar-brand" href="index.html">
+            <img src="assets/images/award.png" class="img-fluid" width="52px" alt="Dhanvantri Hospital Logo">
+            Dhanvantri Hospital
+        </a>
+        
+        <!-- Toggler Button for small screens -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+        </button>
+
+        <!-- Navigation Links -->
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="services.html">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://healthcare-bot-4zh3cgtuvfxc6.azurewebsites.net/">HealthBot</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="login.html">Login/Signup</a>
+                </li>
+            </ul>
         </div>
-      </a>
     </div>
-  </nav>
-</section>
+</nav>
+
 
 <div class="modal right fade" id="DomainModal" tabindex="-1" role="dialog" aria-labelledby="DomainModalLabel2">
   <div class="modal-dialog" role="document">
@@ -246,7 +301,7 @@
                       </div>
                   </div>
                   <div class="col-lg-4 w3l-features-photo-7_top-right mt-lg-0 mt-4">
-                      <img src="assets/images/doctor1.jpg" class="img-fluid" alt="" />
+                      <img src="assets/images/Dr.Kabir Singh.jpg" class="img-fluid" alt="" />
                   </div>
               </div>
           </div>
@@ -357,7 +412,7 @@
 						</div>
 					</div>
 				</div>
-		<!--<div class="apply-gd-right offset-lg-1 col-lg-6 mt-lg-0 mt-5">
+		<div class="apply-gd-right offset-lg-1 col-lg-6 mt-lg-0 mt-5">
 					<div class="apply-form p-sm-5 p-4">
 						<h5>Fill the form for appointment form using our health bot service </h5>
 						<form action="#" method="post">
@@ -382,7 +437,7 @@
 							</div>
 							<button type="submit" class="btn btn-primary submit">Submit Now</button>
 						</form>
-					</div> -->	
+					</div> 
 				</div>
 			</div>
 		</div>
@@ -472,13 +527,11 @@
       </div>
       <div class="midd-footer-28 align-center py-lg-4 py-3 mt-md-5 mt-3">
         <div class="container">
-          <p class="copy-footer-28 text-center"> &copy; 2023 dhanvantri. All Rights Reserved & Design by CyberX </p>
+          <p class="copy-footer-28 text-center"> &copy; 2023 dhanvantri. All Rights Reserved & Design for Frt Projects </p>
         </div>
       </div>
       </div>
-      <iframe src='https://webchat.botframework.com/embed/healthbot-0s8k7ac?s=1CtOR6vcLS8.zv5psbn_ha70aSO7B4jkRL03eBNuH8to8dZ61uK5lBM' 
-                      style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
-    </footer>
+   
 
     <button onclick="topFunction()" id="movetop" title="Go to top">
       &#10548;
@@ -566,13 +619,6 @@
   </script>
 
     <script src="assets/js/bootstrap.min.js"></script>
-	  							<script>
-    (function(d){
-    var s = d.createElement("script");
-    s.setAttribute("data-account", "3CXpuqwfWH");
-    s.setAttribute("src", "../cdn.userway.org/widget.js");
-    (d.body || d.head).appendChild(s);})(document)
-    </script>
 
     </body>
 
