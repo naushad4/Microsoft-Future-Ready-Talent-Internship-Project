@@ -9,6 +9,65 @@
     <title>Dashboard</title>
 </head>
 <body>
+<style>
+    /* Style for the floating chat bot button */
+    .chat-bot-button {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 15px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        z-index: 999;
+    }
+
+    /* Hover effect */
+    .chat-bot-button:hover {
+        background-color: #45a049;
+    }
+
+    /* Style for the chat bot iframe */
+    #chat-bot-iframe {
+        position: fixed;
+        bottom: 50px;
+        right: 40px; /* Moved slightly to the left */
+        width: calc(100% - 80px); /* Adjusted width to create a gap from both sides */
+        max-width: 300px;
+        height: 530px;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        z-index: 999;
+        display: none;
+    }
+</style>
+</head>
+<body>
+
+<!-- Floating Chat Bot Button -->
+<button class="chat-bot-button" onclick="toggleChatBot()">Chat with us!</button>
+
+<!-- Chat Bot Iframe -->
+<iframe id="chat-bot-iframe" src="https://healthcare-bot-4zh3cgtuvfxc6.azurewebsites.net/" allow="microphone; camera;"></iframe>
+
+<script>
+    var chatBotIframe = document.getElementById('chat-bot-iframe');
+
+    function toggleChatBot() {
+        if (chatBotIframe.style.display === 'none') {
+            chatBotIframe.style.display = 'block';
+        } else {
+            chatBotIframe.style.display = 'none';
+        }
+    }
+</script>
+
+</body>
     <section class="header">
         <div class="logo">
             <i class="ri-menu-line icon icon-0 menu"></i>
