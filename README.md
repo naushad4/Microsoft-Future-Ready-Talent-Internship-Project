@@ -9,7 +9,7 @@ Demo link - https://purple-dune-033dd6400.4.azurestaticapps.net/
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
-
+https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/6cea0a63-6850-4e82-9d9c-567a323c41a9
 ### Core Azure Services :
 ```
 Static Web Apps, App Services, Azure Portal
@@ -78,7 +78,6 @@ While online healthcare platforms offer unprecedented convenience, it's imperati
 ![Screenshot 2024-02-20 175811](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/a723c99a-3daf-4af2-ab3b-7f27aa61fca2)
 ![Screenshot 2024-02-20 175759](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/caa2cf80-d63e-489a-8e88-9e2b6d30ddf7)
 ![Screenshot 2024-02-20 180033](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/c94ac6a1-a7af-4fd7-9863-9a8d65c5b470)
-
 
 
 
