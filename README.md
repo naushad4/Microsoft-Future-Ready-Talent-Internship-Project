@@ -11,7 +11,11 @@ Web Technologies used : HTML, CSS, JS, Bootstrap
 IDE : VS-Code
 https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/6cea0a63-6850-4e82-9d9c-567a323c41a9
 
-[![Watch the video](https://youtu.be/Yh6GvvbU2ww)]
+
+
+https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/30905ec3-2e3c-4514-9148-3b6298bb7e69
+
+
 ### Core Azure Services :
 ```
 Static Web Apps, App Services, Azure Portal
