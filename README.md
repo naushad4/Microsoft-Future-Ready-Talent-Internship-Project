@@ -19,15 +19,22 @@ Health
 ### Project Title :
 Dhanvantri Hospital
 
+### Login Credentials :
+```
+Username = admin
+```
+```
+Password = password
+```
 
-Problem Statement/Opportunity:
+### Problem Statement/Opportunity:
 Enhancing Healthcare Accessibility: Online health platforms offer a crucial avenue for individuals to access vital health information, particularly for those residing in remote areas or lacking proximity to healthcare facilities.
 
 Facilitating Convenience: Online health portals offer users the convenience of accessing healthcare resources and information remotely, thereby saving time and expenses compared to traditional healthcare services.
 
 Fostering Empowerment: Through online health platforms, individuals can actively engage in managing their health, making informed decisions, and consequently improving their overall well-being and health outcomes.
 
-Project Description:
+### Project Description:
 The Dhanvantri website serves as a comprehensive platform tailored to medical requirements, catering to a spectrum of healthcare facilities including hospitals, clinics, surgical centers, and clinical laboratories. This website streamlines medical record-keeping processes and facilitates seamless communication between patients and healthcare providers, enabling efficient treatment management. Dhanvantri functions as an online healthcare hub, offering a plethora of services such as virtual consultations with medical experts, e-prescriptions, medical supplies procurement, and access to an extensive repository of medical information and resources.
 
 Online healthcare platforms play a pivotal role in bridging the gap for individuals who face geographical or physical constraints preventing them from accessing traditional healthcare services. By leveraging the convenience of online healthcare, individuals can seek medical assistance from the comfort of their homes, thereby alleviating the challenges associated with physical visits to healthcare facilities. Moreover, these platforms contribute to optimizing the workflow of healthcare providers and mitigating patient wait times.
