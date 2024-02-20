@@ -10,8 +10,15 @@ Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
 
-### Primary Azure Technology :
-Static Web Apps, Visual Studio Code, Healthbot, Microsoft Azure Portal
+### Core Azure Services :
+```
+Static Web Apps, App Services, Azure Portal
+```
+
+### AI Services 
+```
+Health Bot
+```
 
 ### Industry :
 Health
