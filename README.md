@@ -25,6 +25,7 @@ Case 1-
 
 ```
 Case 2 -
+
 1. Send the medical issue directly to health bot for eg - fever
 2. If it dooesn't work send Hi and start intracting with health bot
 ```
