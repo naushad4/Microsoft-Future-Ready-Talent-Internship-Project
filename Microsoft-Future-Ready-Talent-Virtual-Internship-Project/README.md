@@ -4,11 +4,33 @@
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 Demo link - https://purple-dune-033dd6400.4.azurestaticapps.net/
 
-# [Dhanvantri Healthcare Website with Healthbot
+# Dhanvantri Hospital Healthcare Website with Healthbot
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
+
+### Demo Video
+https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/6cea0a63-6850-4e82-9d9c-567a323c41a9
+
+
+### How to Intract With Healthbot
+```
+Case 1- 
+
+1. Step 1 Send Hi message to health bot
+2. Step 2 Now send the medical issue that you want to tell the health bot for eg - fever
+3. Step 3 To book appointmnet send book appointment (please note that book appointment is case sensitive so just send it in small case letters).
+```
+
+```
+Case 2 -
+
+1. Send the medical issue directly to health bot for eg - fever
+2. If it dooesn't work send Hi and start intracting with health bot
+```
+
+
 
 ### Core Azure Services :
 ```
@@ -27,11 +49,13 @@ Health
 Dhanvantri Hospital
 
 ### Login Credentials :
+User Name
 ```
-Username = admin
+admin
 ```
+Password
 ```
-Password = password
+password
 ```
 
 ### Problem Statement/Opportunity:
@@ -78,7 +102,6 @@ While online healthcare platforms offer unprecedented convenience, it's imperati
 ![Screenshot 2024-02-20 175811](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/a723c99a-3daf-4af2-ab3b-7f27aa61fca2)
 ![Screenshot 2024-02-20 175759](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/caa2cf80-d63e-489a-8e88-9e2b6d30ddf7)
 ![Screenshot 2024-02-20 180033](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/c94ac6a1-a7af-4fd7-9863-9a8d65c5b470)
-
 
 
 
