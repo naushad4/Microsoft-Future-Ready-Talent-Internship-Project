@@ -48,11 +48,13 @@ Health
 Dhanvantri Hospital
 
 ### Login Credentials :
+User Name
 ```
-Username = admin
+admin
 ```
+Password
 ```
-Password = password
+password
 ```
 
 ### Problem Statement/Opportunity:
