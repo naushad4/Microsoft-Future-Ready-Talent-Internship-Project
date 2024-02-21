@@ -14,9 +14,6 @@ IDE : VS-Code
 https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/6cea0a63-6850-4e82-9d9c-567a323c41a9
 
 
-
-https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/30905ec3-2e3c-4514-9148-3b6298bb7e69
-
 ### How to Intract With Healthbot
 ```
 Case 1- 
