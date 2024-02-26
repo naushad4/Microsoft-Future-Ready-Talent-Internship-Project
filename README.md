@@ -4,7 +4,7 @@
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 Demo link - https://purple-dune-033dd6400.4.azurestaticapps.net/
 
-### TEAM MEMBERS
+# TEAM MEMBERS
 
 1. [ATHRVA DESHMUKH](https://github.com/athrvadeshmukh)
 2. [GOURAV KUSHWAHA](https://github.com/GOURAVKUSHWAHA-pro)
@@ -18,11 +18,11 @@ Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
 
-### Demo Video
+# Demo Video
 https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/6cea0a63-6850-4e82-9d9c-567a323c41a9
 
 
-### How to Intract With Healthbot
+# How to Intract With Healthbot
 ```
 Case 1- 
 
@@ -40,47 +40,48 @@ Case 2 -
 
 
 
-### Core Azure Services :
+# Core Azure Services :
 ```
 Static Web Apps, App Services, Azure Portal
 ```
 
-### AI Services 
+# AI Services 
 ```
 Health Bot
 ```
 
-### Industry :
+# Industry :
 Health
 
-### Project Title :
+# Project Title :
 Dhanvantri Hospital
 
-### Login Credentials :
-User Name
+# Login Credentials :
+
+### User Name
 ```
 admin
 ```
-Password
+### Password
 ```
 password
 ```
 
-### Problem Statement/Opportunity:
+# Problem Statement/Opportunity:
 Enhancing Healthcare Accessibility: Online health platforms offer a crucial avenue for individuals to access vital health information, particularly for those residing in remote areas or lacking proximity to healthcare facilities.
 
 Facilitating Convenience: Online health portals offer users the convenience of accessing healthcare resources and information remotely, thereby saving time and expenses compared to traditional healthcare services.
 
 Fostering Empowerment: Through online health platforms, individuals can actively engage in managing their health, making informed decisions, and consequently improving their overall well-being and health outcomes.
 
-### Project Description:
+# Project Description:
 The Dhanvantri website serves as a comprehensive platform tailored to medical requirements, catering to a spectrum of healthcare facilities including hospitals, clinics, surgical centers, and clinical laboratories. This website streamlines medical record-keeping processes and facilitates seamless communication between patients and healthcare providers, enabling efficient treatment management. Dhanvantri functions as an online healthcare hub, offering a plethora of services such as virtual consultations with medical experts, e-prescriptions, medical supplies procurement, and access to an extensive repository of medical information and resources.
 
 Online healthcare platforms play a pivotal role in bridging the gap for individuals who face geographical or physical constraints preventing them from accessing traditional healthcare services. By leveraging the convenience of online healthcare, individuals can seek medical assistance from the comfort of their homes, thereby alleviating the challenges associated with physical visits to healthcare facilities. Moreover, these platforms contribute to optimizing the workflow of healthcare providers and mitigating patient wait times.
 
 While online healthcare platforms offer unprecedented convenience, it's imperative to underscore that they should complement rather than substitute in-person medical care, especially in emergency scenarios.
 
-### DHANVANTRI HOSPITAL DEMO WEBSITE Screenshots:
+# DHANVANTRI HOSPITAL DEMO WEBSITE Screenshots:
 ![Screenshot 2024-02-20 180033](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/c94ac6a1-a7af-4fd7-9863-9a8d65c5b470)
 ![Screenshot 2024-02-20 175444](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/3b35f87c-4e6f-4ff7-bf75-5e18d76cac49)
 ![Screenshot 2024-02-20 175434](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/bf205d7b-9254-409f-a1d6-d429096f3256)
