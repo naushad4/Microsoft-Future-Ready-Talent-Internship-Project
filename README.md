@@ -28,7 +28,8 @@ Case 1-
 
 1. Step 1 Send Hi message to health bot
 2. Step 2 Now send the medical issue that you want to tell the health bot for eg - fever
-3. Step 3 To book appointmnet send book appointment (please note that book appointment is case sensitive so just send it in small case letters).
+3. Step 3 To book appointmnet send book appointment (please note that book appointment is case sensitive so
+   just send it in small case letters).
 ```
 
 ```
