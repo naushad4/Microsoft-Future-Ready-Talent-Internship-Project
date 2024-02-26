@@ -5,13 +5,12 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 Demo link - https://purple-dune-033dd6400.4.azurestaticapps.net/
 
 ### TEAM MEMBERS
-```
+
 1. [ATHRVA DESHMUKH](https://github.com/athrvadeshmukh)
 2. [GOURAV KUSHWAHA](https://github.com/GOURAVKUSHWAHA-pro)
 3. [SONU KUSHWAHA](https://github.com/Sonu7804)
 4. [NAUSHAD ALI](https://github.com/naushad4)
 
-```
 
 # Dhanvantri Hospital Healthcare Website with Healthbot
 
