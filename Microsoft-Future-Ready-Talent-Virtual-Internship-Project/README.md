@@ -4,17 +4,25 @@
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 Demo link - https://purple-dune-033dd6400.4.azurestaticapps.net/
 
+# TEAM MEMBERS
+
+1. [ATHRVA DESHMUKH](https://github.com/athrvadeshmukh)
+2. [GOURAV KUSHWAHA](https://github.com/GOURAVKUSHWAHA-pro)
+3. [SONU KUSHWAHA](https://github.com/Sonu7804)
+4. [NAUSHAD ALI](https://github.com/naushad4)
+
+
 # Dhanvantri Hospital Healthcare Website with Healthbot
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
 
-### Demo Video
+# Demo Video
 https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/114325916/6cea0a63-6850-4e82-9d9c-567a323c41a9
 
 
-### How to Intract With Healthbot
+# How to Intract With Healthbot
 ```
 Case 1- 
 
@@ -32,47 +40,48 @@ Case 2 -
 
 
 
-### Core Azure Services :
+# Core Azure Services :
 ```
 Static Web Apps, App Services, Azure Portal
 ```
 
-### AI Services 
+# AI Services 
 ```
 Health Bot
 ```
 
-### Industry :
+# Industry :
 Health
 
-### Project Title :
+# Project Title :
 Dhanvantri Hospital
 
-### Login Credentials :
-User Name
+# Login Credentials :
+
+### User Name
 ```
 admin
 ```
-Password
+### Password
 ```
 password
 ```
 
-### Problem Statement/Opportunity:
+# Problem Statement/Opportunity:
 Enhancing Healthcare Accessibility: Online health platforms offer a crucial avenue for individuals to access vital health information, particularly for those residing in remote areas or lacking proximity to healthcare facilities.
 
 Facilitating Convenience: Online health portals offer users the convenience of accessing healthcare resources and information remotely, thereby saving time and expenses compared to traditional healthcare services.
 
 Fostering Empowerment: Through online health platforms, individuals can actively engage in managing their health, making informed decisions, and consequently improving their overall well-being and health outcomes.
 
-### Project Description:
+# Project Description:
 The Dhanvantri website serves as a comprehensive platform tailored to medical requirements, catering to a spectrum of healthcare facilities including hospitals, clinics, surgical centers, and clinical laboratories. This website streamlines medical record-keeping processes and facilitates seamless communication between patients and healthcare providers, enabling efficient treatment management. Dhanvantri functions as an online healthcare hub, offering a plethora of services such as virtual consultations with medical experts, e-prescriptions, medical supplies procurement, and access to an extensive repository of medical information and resources.
 
 Online healthcare platforms play a pivotal role in bridging the gap for individuals who face geographical or physical constraints preventing them from accessing traditional healthcare services. By leveraging the convenience of online healthcare, individuals can seek medical assistance from the comfort of their homes, thereby alleviating the challenges associated with physical visits to healthcare facilities. Moreover, these platforms contribute to optimizing the workflow of healthcare providers and mitigating patient wait times.
 
 While online healthcare platforms offer unprecedented convenience, it's imperative to underscore that they should complement rather than substitute in-person medical care, especially in emergency scenarios.
 
-### DHANVANTRI HOSPITAL DEMO WEBSITE Screenshots:
+# DHANVANTRI HOSPITAL DEMO WEBSITE Screenshots:
 ![Screenshot 2024-02-20 180033](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/c94ac6a1-a7af-4fd7-9863-9a8d65c5b470)
 ![Screenshot 2024-02-20 175444](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/3b35f87c-4e6f-4ff7-bf75-5e18d76cac49)
 ![Screenshot 2024-02-20 175434](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/bf205d7b-9254-409f-a1d6-d429096f3256)
@@ -103,6 +112,27 @@ While online healthcare platforms offer unprecedented convenience, it's imperati
 ![Screenshot 2024-02-20 175759](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/caa2cf80-d63e-489a-8e88-9e2b6d30ddf7)
 ![Screenshot 2024-02-20 180033](https://github.com/athrvadeshmukh/Microsoft-Future-Ready-Talent-Internship-Project/assets/112002659/c94ac6a1-a7af-4fd7-9863-9a8d65c5b470)
 
+# MIT License
+
+            Copyright (c) 2024 Athrva Deshmukh
+
+            Permission is hereby granted, free of charge, to any person obtaining a copy
+            of this software and associated documentation files (the "Software"), to deal
+            in the Software without restriction, including without limitation the rights
+            to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+            copies of the Software, and to permit persons to whom the Software is
+            furnished to do so, subject to the following conditions:
+
+            The above copyright notice and this permission notice shall be included in all
+            copies or substantial portions of the Software.
+
+            THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+            IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+            FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+            AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+            LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+            OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+            SOFTWARE.
 
 
 
